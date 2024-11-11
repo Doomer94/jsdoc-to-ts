@@ -12,7 +12,8 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/jsdoc-to-ts.git
+   git clone https://github.com/Doomer94/jsdoc-to-ts.git
+   jsdoc-to-ts.git
    cd jsdoc-to-ts
    ```
    
